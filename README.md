@@ -20,8 +20,7 @@ This project analyzes transaction data to detect fraud patterns using Power BI a
 - images (dashboard screenshots)
 
 ## 📸 Dashboard Preview
-<img src="image.png" width="800"/>
-
+![Dashboard](image.png)
 ## 📥 Power BI Dashboard File
 👉 Download here: https://drive.google.com/file/d/1QLXn9vSJ-6KmNbEI9vDw3Z6p-WlvrMPz/view?usp=sharing
 
